@@ -1,0 +1,70 @@
+body{
+    font-family: "Montserrat";
+}
+#title{
+    background-color: burlywood;
+    padding: 3% 10%;
+}    
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.5;
+    font-weight: bold;
+}
+p{
+    line-height: 2;
+}
+.help-image{
+    width: 75%;
+    margin-left: 2rem ;
+}
+.fa-solid{
+    margin-right: 10px;
+}
+nav{
+    position: sticky;
+    left: 0px;
+    top: 0px;
+}
+.navbar-brand{
+    font-weight: bold;
+    font-size: 2.5rem;
+    padding-left: 0;
+}
+/* Section-2 */
+#assurity{
+    padding: 7% 15%;
+}
+/* .fa-solid{
+    font-size: 2rem; 
+}
+*/
+.section-2 p{
+    color: grey;
+}
+
+/* section-3 */
+
+#testimonials{
+    padding: 5% 5%;
+    text-align: center;
+    background:burlywood;
+}
+.testimonial-image{
+    width: 50%;
+    border-radius: 5%;
+}
+.card{
+    padding: 7% 15%;
+}
+.card-image{
+    width: 100%;
+}
+#footer{
+    background:burlywood ;
+    text-align: center;
+    padding: 2%;
+}
+.social-icons{
+    margin-right: 1rem;
+}
+
